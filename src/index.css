@@ -21,6 +21,8 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  scroll-padding-top: 90px;
 }
 
 body {
@@ -28,7 +30,9 @@ body {
   color: var(--text);
   font-family: var(--body);
   line-height: 1.6;
+  overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
 }
 
 a {
@@ -742,6 +746,8 @@ footer {
     gap: 0;
     padding: 1rem 1.1rem 1.5rem;
     border-bottom: 1px solid var(--border);
+    max-height: calc(100vh - 64px);
+    overflow-y: auto;
     transform: translateY(-130%);
     transition: transform 0.25s ease;
   }
