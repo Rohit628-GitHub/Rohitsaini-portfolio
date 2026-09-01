@@ -99,7 +99,7 @@ const projects = [
     tech: ["React", "HTML", "CSS", "JavaScript"],
     image:
       "https://ik.imagekit.io/in11cpf6z/Screenshot%202026-09-01%20093121.png",
-    live: "https://portfolio-wine-theta-27.vercel.app",
+    live: "https://calculator-gamma-gules-57.vercel.app/",
     github: "https://github.com/Rohit628-GitHub/Calculator",
   },
 ];
