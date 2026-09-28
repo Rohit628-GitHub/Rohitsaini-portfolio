@@ -18,7 +18,7 @@ const categories = [
     icon: <FaServer />,
     title: "Backend",
     color: "purple",
-    tags: ["Node.js", "Express.js", "Python", "Flask", "REST APIs", "Java"],
+    tags: ["Node.js", "Express.js","REST APIs", "Prisma", "sequelize", "JWT", "Authentication", "Authorization" ],
   },
   {
     icon: <FaDatabase />,
@@ -36,7 +36,7 @@ const categories = [
     icon: <FaBrain />,
     title: "Programming Languages",
     color: "purple",
-    tags: ["JavaScript", "Python", "Java", "SQL"],
+    tags: ["JavaScript", "Python",  "SQL"],
   },
   {
     icon: <FaLightbulb />,
