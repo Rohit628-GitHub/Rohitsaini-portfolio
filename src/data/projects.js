@@ -43,7 +43,7 @@ const projects = [
     tech: ["React", "Node.js", "Express", "MongoDB"],
     image:
       "https://ik.imagekit.io/in11cpf6z/Screenshot%202026-09-01%20100233.png",
-    live: "https://student-management-system-smoky-theta.vercel.app/login",
+    live: "https://student-management-system-j2pt.vercel.app/",
     github: "https://github.com/Rohit628-GitHub/Student-Management-System",
   },
   {
